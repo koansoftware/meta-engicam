@@ -75,8 +75,5 @@ IMAGE_INSTALL_append_microdev = " \
 	obexftp \
 	hostapd \
 	ppp \
-	brcm-patchram-plus \
-	lwb-backports-laird \
-	lwb-etsi-firmware \
 "
 
